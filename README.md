@@ -1,4 +1,4 @@
-# Discord-raid-bot
+# Discord-raid-bot NOTE U NEED THE LIBARY OF PYTHON AND DISCORD BOTS IF U DONT HAVE IT WILL NOT WORK!!!
 Hiya a simple raid bot! 
 hey so please only use the command !supernuke their is other commands but they dont work that well
 alright first think first please make a bot on the dev portal for discord
