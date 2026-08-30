@@ -23,3 +23,4 @@ then if it gives a error  go to auth and click bot then adminstator and copy lin
 run !supernuke
 BOOM! u raided a server 
 Please this is for learning and educational purposes only thanks! (srry abt spelling)
+if something is not working or you need help dm jsstudios12 on discord!
