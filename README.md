@@ -1,7 +1,7 @@
 # Discord-raid-bot NOTE U NEED THE LIBARY OF PYTHON AND DISCORD BOTS IF U DONT HAVE IT WILL NOT WORK!!!
 Hiya a simple raid bot! 
 hey so please only use the command !supernuke their is other commands but they dont work that well
-alright first think first please make a bot on the dev portal for discord
+alright first thing first please make a bot on the dev portal for discord
 next take the script and place the Token in the section were it says 
 then go to bot and go to intents and go here and toggle them Presence Intent
 Required for your bot to receive Presence Update events.
